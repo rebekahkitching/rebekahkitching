@@ -1,6 +1,4 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">Why hello! I'm Rebekah, a full-stack software engineer looking for my next opportunity 🚀</div>  
