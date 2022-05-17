@@ -4,13 +4,13 @@
 ### <div align="center">Why hello! I'm Rebekah, a full-stack software engineer looking for my next opportunity 🚀</div>  
   
 
-- 🌱 I’m currently learning React and Node  
+🌱 I’m currently learning React and Node  
   
 
-- 💻 I'm currently planning out a client management system   
+💻 I'm currently planning out a client management system   
   
 
-- ⚡ When I'm not coding I'm: crocheting, taking pictures of my dog or enjoying nature.  
+⚡ When I'm not coding I'm: crocheting, taking pictures of my dog or enjoying nature.  
   
 
 <br/>  
